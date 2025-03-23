@@ -62,7 +62,6 @@ PRODUCT_PACKAGES += \
     libmmcamera2_q3a_core \
     libmmcamera2_stats_algorithm \
     libmmcamera2_stats_lib \
-    libmmcamera_dbg \
     libmmcamera_faceproc \
     libmmcamera_faceproc2 \
     libmmcamera_tintless_algo \
